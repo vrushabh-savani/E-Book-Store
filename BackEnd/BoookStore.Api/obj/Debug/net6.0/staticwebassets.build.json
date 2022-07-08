@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GCdhKO8FWRojVUkvAlWVIiu7SXfNawHu49RA2DN4Jlo=",
+  "Source": "BoookStore.Api",
+  "BasePath": "_content/BoookStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
